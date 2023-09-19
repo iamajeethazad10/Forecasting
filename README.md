@@ -24,3 +24,10 @@ Forecast the Airlines Passengers and CocaCola Prices data set. Prepare a documen
 - Seasonal Autoregressive Integrated Moving Average (SARIMA)
 
 - Exponential Smoothing (ES)
+
+This Notebook will study following Questions :
+Problem Statement No 1 :
+Forecast the Airlines Passengers data set. Prepare a document for model explaining. How many dummy variables you have created and RMSE value for model. Finally which model you will use for Forecasting.
+
+Problem Statement No 2 :
+Forecast the CocaCola prices data set. Prepare a document for model explaining. How many dummy variables you have created and RMSE value for model. Finally which model you will use for Forecasting.
